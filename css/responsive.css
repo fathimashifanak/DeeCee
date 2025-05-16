@@ -1,0 +1,56 @@
+@media (max-width: 575.98px) { 
+    .col-lg-6 ul {
+    
+    margin-top: -33px;
+}
+
+.sec8 .col-md-6 img {
+    margin-left: 143px;
+    margin-top: -76px;
+    display: none;
+}
+
+
+.sec8 .col-md-6 {
+    padding-top: 45px;
+}
+
+.home img {
+    margin-top: -11px;
+    margin-left: 0px;
+    display: none;
+}
+
+.sec5 .col-md-4 img {
+    width: 0;
+    margin-left:0px;
+}
+
+.sec9 button:not(:disabled) {
+    cursor: pointer;
+    margin-left: 0px;
+    margin-top: -23px;
+}
+.sec3 .views {
+    margin-bottom: 20px;
+}
+.sec3 .learners {
+    margin-bottom: 20px;
+}.sec3 .time {
+    margin-bottom: 20px;
+}.sec3 .ques {
+    margin-bottom: 20px;
+}
+.sec4 h2 {
+    color: #01539d;
+   
+}
+.sec4 p {
+    color: #000000;
+}
+
+.sec4 .btn {
+   color: #01539d;
+   
+}
+}
